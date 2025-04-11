@@ -1,0 +1,17 @@
+Unidades inimigas = delimitadas por um retângulo (largura w e altura h) canto inferior esquerdo x0, y0
+
+Sofre dano se a área retangular for delimitada pela área circular
+
+
+Entradas:
+primeira linha
+T, entre 1 e 1000
+
+segunda linha quatro números:
+largura w e altura h e as coordenas x e y do ponto inferior (x0, y0)
+
+terceira linha:
+string identificador (agua, terra, fogo, ar), o nível N da magia, coordenadas cx,cy que são centro da explosão, a explosão é uma área circular
+
+
+
